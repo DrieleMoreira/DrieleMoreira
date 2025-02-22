@@ -20,4 +20,8 @@ Eu sou Driele Moreira, Sou desenvolvedor Front End, atualmente estou aprendendo 
 <br>
 
 ![Driele Moreira stats](https://github-readme-stats.vercel.app/api?username=DrieleMoreira&show_icons=true&theme=radical)
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrieleMoreira)](https://github.com/anuraghazra/github-readme-stats)
 
